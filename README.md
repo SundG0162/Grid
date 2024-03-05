@@ -1,2 +1,6 @@
 # Grid
- 2024 경기게임마이스터고등학교 게임잼 with STOVE : Team.DrumSt@re
+> 2024 경기게임마이스터고등학교 게임잼 with STOVE : Team.DrumSt@re
+
+<hr>
+
+이 리포지터리는 소스코드 공개용으로 전체 프로젝트는 에셋의 저작권으로 인해 공개하지 못했습니다.
